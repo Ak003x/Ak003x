@@ -9,10 +9,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **portfolio_v2**
-- 🌱 I'm currently learning **React, TypeScript, Node.js**
-- 💬 Ask me about **JavaScript, TypeScript, CSS**
-- 📫 How to reach me: **your@email.com**
+- 🔭 I'm currently working on **Front-End Projects**
+- 🌱 I'm currently learning **AI Full Stack**
+- 💬 Ask me about **Software Development**
+- 📫 How to reach me: **aakash.velu.003@gmail.com**
 - ⚡ Fun fact: I love building clean UI and solving problems
 
 ---
