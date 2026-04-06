@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash (Dev_AK)</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=435&lines=AI+Software+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
@@ -8,7 +7,6 @@
 ---
 
 ### 👨‍💻 About Me
-
 - 🔭 I'm currently working on **Front-End Projects**
 - 🌱 I'm currently learning **AI Full Stack Development**
 - 💬 Ask me about **Software Development**
@@ -16,6 +14,7 @@
 - ⚡ Fun fact: I love building clean UI and solving problems
 
 ---
+
 ### 🛠️ Tech Stack
 
 #### 🌐 Frontend
@@ -39,7 +38,6 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-
 #### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -51,15 +49,13 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ak003x&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Ak003x&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🔗 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash003/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-v2-one-self.vercel.app)
 
